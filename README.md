@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Welcome to my GitHub repository! I'm Don Arias Agokoli, and this is where I showcase my projects and share my experiences in the world of technology. Feel free to explore, contribute, or reach out if you have any questions or collaborations in mind.
+🔭 I'm currently working on crafting sleek and efficient mobile applications using Flutter, pushing the boundaries of user experience.
+
+<!-- Welcome to my GitHub repository! I'm Don Arias Agokoli, and this is where I showcase my projects and share my experiences in the world of technology. Feel free to explore, contribute, or reach out if you have any questions or collaborations in mind.
 
 ## 💻 Technologies
 
@@ -17,7 +19,7 @@ I'm proficient in a variety of technologies, including but not limited to:
 - Twitter: [Don Arias Agokoli](https://twitter.com/don_gorias)
 - Email: [Don Arias Agokoli](mailto:donarias@outlook.fr)
 
-Feel free to reach out for collaboration, questions, or just to say hi!
+Feel free to reach out for collaboration, questions, or just to say hi! -->
 
 Happy coding! 🚀
 
