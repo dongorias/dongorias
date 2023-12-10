@@ -1,4 +1,26 @@
+<div id="header" align="center">
+  <img src="https://github.com/dongorias/dongorias/assets/37826074/1d8b3929-5303-4449-a75f-e8f621a470ff" width="350" />
+  
+  <div id="badges">
+ <a href="https://twitter.com/don_gorias">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://stackoverflow.com/users/10778505/don-arias-agokoli">
+    <img src="https://img.shields.io/badge/Stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/donarias/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    <a href="mailto:donarias.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=dongorias&style=flat-square&color=blue" alt=""/>
+
 ### Hi there 👋
+
+</div>
 
 🔭 I'm currently working on crafting sleek and efficient mobile applications using Flutter, pushing the boundaries of user experience.
 
@@ -10,11 +32,20 @@
 
 💬 Ask me about Flutter, UI/UX, or Dart.
 
-📫 Connect on [social media or email].
-
 😄 Pronouns: He/Him
 
 
+Happy coding! 👨🏾‍💻
+
+
+### Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+
+</div>
 
 <!-- 
 
@@ -39,8 +70,6 @@ I'm proficient in a variety of technologies, including but not limited to:
 - Email: [Don Arias Agokoli](mailto:donarias@outlook.fr)
 
 Feel free to reach out for collaboration, questions, or just to say hi! -->
-
-Happy coding! 🚀
 
 <!--
 **dongorias/dongorias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
