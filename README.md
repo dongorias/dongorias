@@ -2,7 +2,26 @@
 
 🔭 I'm currently working on crafting sleek and efficient mobile applications using Flutter, pushing the boundaries of user experience.
 
-<!-- Welcome to my GitHub repository! I'm Don Arias Agokoli, and this is where I showcase my projects and share my experiences in the world of technology. Feel free to explore, contribute, or reach out if you have any questions or collaborations in mind.
+🌱 Constantly learning and exploring Flutter's latest features.
+
+👯 Open to collaboration on exciting Flutter projects.
+
+🤔 Seeking help with app performance and animations.
+
+💬 Ask me about Flutter, UI/UX, or Dart.
+
+📫 Connect on [social media or email].
+
+😄 Pronouns: He/Him
+
+
+
+<!-- 
+
+⚡ Fun fact: Enthusiastic salsa dancer in free time!
+
+
+Welcome to my GitHub repository! I'm Don Arias Agokoli, and this is where I showcase my projects and share my experiences in the world of technology. Feel free to explore, contribute, or reach out if you have any questions or collaborations in mind.
 
 ## 💻 Technologies
 
