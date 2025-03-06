@@ -22,18 +22,15 @@
 
 </div>
 
-🔭 I'm currently working on crafting sleek and efficient mobile applications using Flutter, pushing the boundaries of user experience.
+🔭 I'm currently working on crafting sleek and efficient mobile applications using Flutter, Flutter, Jetpack Compose, Java, Kotlin and SwiftUI, pushing the boundaries of user experience.
 
-🌱 Constantly learning and exploring Flutter's latest features.
+🌱 Constantly learning and exploring Flutter, Jetpack Compose, Java, Kotlin or SwiftUI latest features.
 
-👯 Open to collaboration on exciting Flutter projects.
+👯 Open to collaboration on exciting Flutter, Jetpack Compose, Java, Kotlin or SwiftUI projects.
 
-🤔 Seeking help with app performance and animations.
+🤔 Seeking help with application performance issues, code optimization, and software architecture.
 
-💬 Ask me about Flutter, UI/UX, or Dart.
-
-😄 Pronouns: He/Him
-
+💬 Ask me about Flutter, Jetpack Compose, Java, Kotlin or SwiftUI .
 
 Happy coding! 👨🏾‍💻
 
