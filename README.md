@@ -51,7 +51,7 @@ Happy coding! 👨🏾‍💻
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jiira" alt="Jiira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
 
 </div>
 
