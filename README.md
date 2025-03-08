@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="https://github.com/dongorias/dongorias/assets/37826074/1d8b3929-5303-4449-a75f-e8f621a470ff" width="350" />
-  
+<!--   <img src="https://github.com/dongorias/dongorias/assets/37826074/1d8b3929-5303-4449-a75f-e8f621a470ff" width="350" />
+   -->
   <div id="badges">
  <a href="https://twitter.com/don_gorias">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
