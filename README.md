@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Trebuchet&weight=700&pause=1000&width=435&lines=Welcome+to+Don+Arias'Github)](https://git.io/typing-svg)
 
-Hi, my name is Don Arias. I am passionate about mobile development, especially on Android. I constantly strive to push my limits to create robust, scalable, high-performance, and user-friendly applications.
+I'm a passionate mobile developer. I'm constantly striving to push my limits, with the aim of designing fluid, high-performance, bug-free applications offering an optimal user experience.
 
 ### Techs
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,dart,swift,flutter&perline=5)](https://skillicons.dev)&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" title="Jetpack Compose" alt="Jetpack Compose" width="40" height="40"/>&nbsp;
