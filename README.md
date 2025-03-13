@@ -1,7 +1,41 @@
-<div id="header" align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Trebuchet&weight=700&pause=1000&width=435&lines=Welcome+to+Don+Arias'Github)](https://git.io/typing-svg)
+
+Hi, my name is Don Arias. I am passionate about mobile development, especially on Android. I constantly strive to push my limits to create robust, scalable, high-performance, and user-friendly applications.
+
+### Techs
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,dart,swift,flutter&perline=5)](https://skillicons.dev)&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" title="Jetpack Compose" alt="Jetpack Compose" width="40" height="40"/>&nbsp;
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,git,github,gitlab,figma,firebase,postman,bitbucket&perline=8)](https://skillicons.dev)
+
+### Follow me
+
+<div id="badges">
+ <a href="https://twitter.com/don_gorias">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+   &nbsp;
+    <a href="https://www.linkedin.com/in/donarias/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   &nbsp;
+  <a href="https://stackoverflow.com/users/10778505/don-arias-agokoli">
+    <img src="https://img.shields.io/badge/Stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
+  </a>
+   
+ 
+   
+</div> 
+
+
+### 👉 [More](https://dongorias.github.io/portfolio/)
+
+
+<!--<div id="header" align="center">-->
+
 <!--   <img src="https://github.com/dongorias/dongorias/assets/37826074/1d8b3929-5303-4449-a75f-e8f621a470ff" width="350" />
    -->
-  <div id="badges">
+<!--   <div id="badges">
  <a href="https://twitter.com/don_gorias">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -14,9 +48,9 @@
     <a href="mailto:donarias.contact@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gmail Badge"/>
   </a>
-</div>
+</div> -->
 
-<img src="https://komarev.com/ghpvc/?username=dongorias&style=flat-square&color=blue" alt=""/>
+<!-- <img src="https://komarev.com/ghpvc/?username=dongorias&style=flat-square&color=blue" alt=""/>
 
 ### Hi there 👋
 
@@ -51,7 +85,7 @@ Happy coding! 👨🏾‍💻
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original-wordmark.svg" title="Jetpack Compose" alt="Jetpack Compose" width="40" height="40"/>&nbsp;
 
-</div>
+</div>-->
 
 <!-- 
 
